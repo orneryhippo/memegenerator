@@ -1,0 +1,5 @@
+{
+  "name": "MemeGenius AI",
+  "description": "An AI-powered meme generator that creates funny captions using Gemini 3 Pro and edits images using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
